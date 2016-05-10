@@ -1,6 +1,4 @@
-package les4;
-
-import sun.font.TrueTypeFont;
+package ex4;
 
 public class Card {
     private int mark;
