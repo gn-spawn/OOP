@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7599169d-f159-4c13-99fa-188df99802ea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex5/Deck.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OOP.iws" />
@@ -30,18 +31,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex4/Card.java">
+      <file leaf-file-name="Deck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+            <state relative-caret-position="69">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
-                <element signature="method#Card#0;class#Card#0" expanded="false" />
-                <element signature="method#color#0;class#Card#0" expanded="false" />
-                <element signature="method#toString#0;class#Card#0" expanded="false" />
-                <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
-                <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-                <element signature="method#main#0;class#Card#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#159#165#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,8 +49,8 @@
       <file leaf-file-name="SumAndAverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex5/SumAndAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="144">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#193#202#0" expanded="true" />
@@ -60,25 +59,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sample4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex5/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            <state relative-caret-position="2568">
+              <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScannerReadLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex5/ScannerReadLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#192#200#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -118,10 +104,11 @@
         <option value="$PROJECT_DIR$/src/ex5/a.java" />
         <option value="$PROJECT_DIR$/src/ex5/Sample4.java" />
         <option value="$PROJECT_DIR$/src/sample4/Circle.java" />
-        <option value="$PROJECT_DIR$/src/ex5/Deck.java" />
         <option value="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
         <option value="$PROJECT_DIR$/src/ex5/SumAndAverage.java" />
         <option value="$PROJECT_DIR$/src/lesson04/sample4/Sample4.java" />
+        <option value="$PROJECT_DIR$/src/ex5/Card.java" />
+        <option value="$PROJECT_DIR$/src/ex5/Deck.java" />
       </list>
     </option>
   </component>
@@ -191,20 +178,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson04.sample4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ex5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
@@ -248,27 +221,7 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumAndAverage">
-    <configuration default="false" name="TicketSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ex4.TicketSample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Deck">
     <configuration default="false" name="ScannerReadLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -337,6 +290,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ex5.SumAndAverage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ex5.Deck" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -952,19 +925,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TicketSample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ScannerReadLine" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Sample4" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Sample4 (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SumAndAverage" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ScannerReadLine" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Sample4" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Sample4 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumAndAverage" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Deck" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SumAndAverage" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ScannerReadLine" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Sample4 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Sample4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TicketSample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Deck" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SumAndAverage" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ScannerReadLine" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Sample4 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Sample4" />
       </list>
     </recent_temporary>
   </component>
@@ -985,7 +958,7 @@
       <workItem from="1462863718412" duration="939000" />
       <workItem from="1463399143557" duration="524000" />
       <workItem from="1463458388744" duration="4294000" />
-      <workItem from="1463739341548" duration="1641000" />
+      <workItem from="1463739341548" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="add ex4/MyPoint.java">
       <created>1462860482259</created>
@@ -1008,11 +981,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463741740263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="replace foreach">
+      <created>1463741816180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1463741816180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16055000" />
+    <option name="totallyTimeSpent" value="16966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1027,7 +1007,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28267047" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24878837" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1036,7 +1016,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1089,7 +1069,8 @@
     <MESSAGE value="add ex4/MyPoint.java" />
     <MESSAGE value="add ticket.java&#10;" />
     <MESSAGE value="sum and averageの完成&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum and averageの完成&#10;" />
+    <MESSAGE value="replace foreach" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace foreach" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1120,7 +1101,6 @@
             <element signature="method#toString#0;class#Card#0" expanded="false" />
             <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
             <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-            <element signature="method#main#0;class#Card#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1142,7 +1122,6 @@
             <element signature="method#toString#0;class#Card#0" expanded="false" />
             <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
             <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-            <element signature="method#main#0;class#Card#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1176,7 +1155,6 @@
             <element signature="method#toString#0;class#Card#0" expanded="false" />
             <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
             <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-            <element signature="method#main#0;class#Card#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1220,7 +1198,6 @@
             <element signature="method#toString#0;class#Card#0" expanded="false" />
             <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
             <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-            <element signature="method#main#0;class#Card#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1321,26 +1298,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="192">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
-          <folding>
-            <element signature="method#Card#0;class#Card#0" expanded="false" />
-            <element signature="method#color#0;class#Card#0" expanded="false" />
-            <element signature="method#toString#0;class#Card#0" expanded="false" />
-            <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
-            <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
-            <element signature="method#main#0;class#Card#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1355,10 +1317,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="116" column="33" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+          <folding>
+            <element signature="method#Card#0;class#Card#0" expanded="false" />
+            <element signature="method#color#0;class#Card#0" expanded="false" />
+            <element signature="method#toString#0;class#Card#0" expanded="false" />
+            <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
+            <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2568">
+          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex5/SumAndAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="144">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#193#202#0" expanded="true" />
@@ -1366,11 +1350,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
+    <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="69">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#159#165#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
