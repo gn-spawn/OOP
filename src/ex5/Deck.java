@@ -6,8 +6,8 @@ import sun.applet.Main;
 import java.util.ArrayList;
 
 public class Deck {
-    ArrayList<Card> deck = new ArrayList<Card>();
-    Deck() {
+    private ArrayList<Card> deck = new ArrayList<Card>();
+    private Deck() {
         for (int i = 1; i <= 13; i++) {
             deck.add(new Card(Card.DIAMOND, i));
             deck.add(new Card(Card.CLUB, i));
@@ -16,7 +16,7 @@ public class Deck {
         }
     }
 
-    void show() {
+    private void show() {
         deck.forEach(System.out::println);
     }
 

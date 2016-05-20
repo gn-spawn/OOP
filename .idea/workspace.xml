@@ -4,7 +4,6 @@
     <list default="true" id="7599169d-f159-4c13-99fa-188df99802ea" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex5/Deck.java" afterPath="$PROJECT_DIR$/src/ex5/Deck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" afterPath="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
     </list>
     <ignored path="OOP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,13 +50,13 @@
       <file leaf-file-name="Deck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="192">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#142#148#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#150#156#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -978,7 +977,7 @@
       <workItem from="1462863718412" duration="939000" />
       <workItem from="1463399143557" duration="524000" />
       <workItem from="1463458388744" duration="4294000" />
-      <workItem from="1463739341548" duration="3441000" />
+      <workItem from="1463739341548" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary="add ex4/MyPoint.java">
       <created>1462860482259</created>
@@ -1015,11 +1014,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463743370578</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add deck.show method">
+      <created>1463744556717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463744556717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17855000" />
+    <option name="totallyTimeSpent" value="17950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1098,7 +1104,8 @@
     <MESSAGE value="sum and averageの完成&#10;" />
     <MESSAGE value="replace foreach" />
     <MESSAGE value="create deck class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create deck class" />
+    <MESSAGE value="add deck.show method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add deck.show method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1380,13 +1387,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="192">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#142#148#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#150#156#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
           </folding>
         </state>
       </provider>
