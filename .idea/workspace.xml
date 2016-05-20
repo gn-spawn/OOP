@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7599169d-f159-4c13-99fa-188df99802ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex5/SumAndAverage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex4/Card.java" afterPath="$PROJECT_DIR$/src/ex4/Card.java" />
     </list>
     <ignored path="OOP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumAndAverage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumAndAverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex5/SumAndAverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -59,6 +56,16 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#193#202#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,10 +118,10 @@
         <option value="$PROJECT_DIR$/src/ex5/a.java" />
         <option value="$PROJECT_DIR$/src/ex5/Sample4.java" />
         <option value="$PROJECT_DIR$/src/sample4/Circle.java" />
-        <option value="$PROJECT_DIR$/src/lesson04/sample4/Sample4.java" />
         <option value="$PROJECT_DIR$/src/ex5/Deck.java" />
         <option value="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
         <option value="$PROJECT_DIR$/src/ex5/SumAndAverage.java" />
+        <option value="$PROJECT_DIR$/src/lesson04/sample4/Sample4.java" />
       </list>
     </option>
   </component>
@@ -172,6 +179,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="OOP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson04.sample4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -964,7 +985,7 @@
       <workItem from="1462863718412" duration="939000" />
       <workItem from="1463399143557" duration="524000" />
       <workItem from="1463458388744" duration="4294000" />
-      <workItem from="1463739341548" duration="1557000" />
+      <workItem from="1463739341548" duration="1641000" />
     </task>
     <task id="LOCAL-00001" summary="add ex4/MyPoint.java">
       <created>1462860482259</created>
@@ -980,11 +1001,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462863176460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sum and averageの完成&#10;">
+      <created>1463741740263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463741740263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15971000" />
+    <option name="totallyTimeSpent" value="16055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1060,7 +1088,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ex4/MyPoint.java" />
     <MESSAGE value="add ticket.java&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ticket.java&#10;" />
+    <MESSAGE value="sum and averageの完成&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum and averageの完成&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1315,14 +1344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex5/ScannerReadLine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -1342,6 +1363,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#193#202#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson04/sample4/Sample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
