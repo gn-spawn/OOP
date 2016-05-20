@@ -9,9 +9,6 @@ public class Card {
     public static final int CLUB = 2;
     public static final int DIAMOND = 3;
 
-    public static final int BLACK = 0;
-    public static final int RED = 1;
-
     public Card(int m, int num) {
         this.mark = m;
         this.number = num;
@@ -45,7 +42,6 @@ public class Card {
         }
         return instanceColor;
     }
-
     public String toString() {
         String stringMark = "";
         String stringNumber = "";
