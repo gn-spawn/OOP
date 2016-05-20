@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7599169d-f159-4c13-99fa-188df99802ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex5/Deck.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex5/Deck.java" afterPath="$PROJECT_DIR$/src/ex5/Deck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" afterPath="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
     </list>
     <ignored path="OOP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,16 +32,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex4/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="115" column="43" selection-start-line="115" selection-start-column="43" selection-end-line="115" selection-end-column="43" />
+              <folding>
+                <element signature="method#Card#0;class#Card#0" expanded="false" />
+                <element signature="method#color#0;class#Card#0" expanded="false" />
+                <element signature="method#toString#0;class#Card#0" expanded="false" />
+                <element signature="method#isEqualMark#0;class#Card#0" expanded="false" />
+                <element signature="method#isLargerThan#0;class#Card#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Deck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="285">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#159#165#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#142#148#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +66,8 @@
       <file leaf-file-name="SumAndAverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex5/SumAndAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="-99">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#193#202#0" expanded="true" />
@@ -59,12 +76,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex5/Card.java">
+      <file leaf-file-name="ScannerReadLine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex5/ScannerReadLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2568">
-              <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#192#200#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,10 +124,10 @@
         <option value="$PROJECT_DIR$/src/ex5/a.java" />
         <option value="$PROJECT_DIR$/src/ex5/Sample4.java" />
         <option value="$PROJECT_DIR$/src/sample4/Circle.java" />
-        <option value="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
         <option value="$PROJECT_DIR$/src/ex5/SumAndAverage.java" />
         <option value="$PROJECT_DIR$/src/lesson04/sample4/Sample4.java" />
         <option value="$PROJECT_DIR$/src/ex5/Card.java" />
+        <option value="$PROJECT_DIR$/src/ex5/ScannerReadLine.java" />
         <option value="$PROJECT_DIR$/src/ex5/Deck.java" />
       </list>
     </option>
@@ -958,7 +978,7 @@
       <workItem from="1462863718412" duration="939000" />
       <workItem from="1463399143557" duration="524000" />
       <workItem from="1463458388744" duration="4294000" />
-      <workItem from="1463739341548" duration="2552000" />
+      <workItem from="1463739341548" duration="3441000" />
     </task>
     <task id="LOCAL-00001" summary="add ex4/MyPoint.java">
       <created>1462860482259</created>
@@ -988,11 +1008,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463741816180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create deck class">
+      <created>1463743370578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1463743370578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16966000" />
+    <option name="totallyTimeSpent" value="17855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1070,7 +1097,8 @@
     <MESSAGE value="add ticket.java&#10;" />
     <MESSAGE value="sum and averageの完成&#10;" />
     <MESSAGE value="replace foreach" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace foreach" />
+    <MESSAGE value="create deck class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create deck class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1306,21 +1334,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/ScannerReadLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex4/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="116" column="33" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+        <state relative-caret-position="159">
+          <caret line="115" column="43" selection-start-line="115" selection-start-column="43" selection-end-line="115" selection-end-column="43" />
           <folding>
             <element signature="method#Card#0;class#Card#0" expanded="false" />
             <element signature="method#color#0;class#Card#0" expanded="false" />
@@ -1331,18 +1348,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2568">
-          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex5/SumAndAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="-99">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#193#202#0" expanded="true" />
@@ -1350,15 +1359,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
+    <entry file="file://$PROJECT_DIR$/src/ex5/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="2664">
+          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/ScannerReadLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#159#165#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#192#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#142#148#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
           </folding>
         </state>
       </provider>

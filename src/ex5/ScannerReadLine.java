@@ -13,8 +13,6 @@ public class ScannerReadLine {
             lines.add(line);
         }
         System.out.println("入力された行は、");
-        for (String line: lines) {
-            System.out.println(line);
-        }
+        lines.forEach(System.out::println);
     }
 }
