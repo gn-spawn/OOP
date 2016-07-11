@@ -9,5 +9,7 @@ public class Star implements Decoratable{
     }
 
     @Override
-    public void decoratable() {}
+    public void decorate() {
+        System.out.println("*" + this.str + "*");
+    }
 }

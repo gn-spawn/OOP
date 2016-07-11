@@ -1,15 +1,23 @@
 package ex12;
 
-public class Box implements Decoratable{
-    @Override
-    public void decoratable() {
-    }
 
+import org.apache.commons.lang3.StringUtils;
+
+public class Box implements Decoratable{
     String str;
 
     Box(String str) {
         this.str = str;
     }
 
-    void printLine(){};
+    void printLine(){
+        System.out.println("+" + StringUtils.repeat("-", this.str.length()) + "+");
+    };
+
+    @Override
+    public void decorate() {
+        printLine();
+        System.out.println("|" + this.str + "|");
+        printLine();
+    }
 }
