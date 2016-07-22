@@ -8,8 +8,11 @@ public class ReadDic {
         try {
             BufferedReader reader = new BufferedReader(new FileReader(filename));
             String line;
+            String[] pear;
             while ((line = reader.readLine()) != null) {
-                System.out.println(line);
+                pear = line.split(",", 0);
+                int count = 0;
+                System.out.println("英単語[" + pear[count] + "]は、日本語の[" + pear[count + 1] + "]という意味です");
             }
             reader.close();
         } catch (FileNotFoundException e) {
